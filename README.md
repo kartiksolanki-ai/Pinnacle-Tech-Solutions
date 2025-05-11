@@ -3,5 +3,6 @@ This repository contains the latest version of our company profile, services ove
 
 <img src="Pinnacle.png" alt="ADAS-PeVision Demo" width="300">
 
-Visit our website: [Pinnacle Tech Solutions]([https://pinnacletechsolutions.com](https://www.pinnacletechsolutions.in/))
+Visit our website: [Pinnacle Tech Solutions](https://www.pinnacletechsolutions.in/)
+
 
